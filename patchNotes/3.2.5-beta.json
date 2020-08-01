@@ -1,1 +1,6 @@
-{}
+{
+
+  "new":["Some might notice a new option. Privacy Mode lets you blur out certain account related options so recording information is much easier on you.", "Another options, Calculate shipping lets MF reprice automaticaly adjust to shipping."],
+  "fixes":["Issue some users may of had with loading screen not going away.", "Issue some may of had with prices not always reflecting on Amazon."]
+
+}
