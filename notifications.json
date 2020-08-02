@@ -13,7 +13,16 @@
 		},
 		{
 			"date": "8/1/2020",
-			"type": "patch"
+			"type": "video",
+			"text": "This is a video"
+			
+		},
+				{
+			"date": "8/1/2020",
+			"type": "note",
+			"text": "This is a note, differnt color",
+		        "flag": "warning"
+			
 		}
 
 	]
