@@ -4,6 +4,8 @@
 			"date": "8/1/2020",
 			"type": "video",
 			"title": "NuPrice Updates",
+			"oneTime": true,
+			"duration": 15000,
 			"text": "Click here for a brief video update on new version.",
 			"yt": "3kUj8eis1ac"
 		},
