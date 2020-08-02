@@ -1,31 +1,26 @@
 {
-	"all": [
+   "all":[
 
-	],
-	"3.0.0": [
+   ],
+   "3.0.0":[
 
-	],
-	"3.2.5-beta": [
-
-		{
-			"date": "8/1/2020",
-			"type": "patch"
-		},
-		{
-			"date": "8/1/2020",
-			"type": "video",
-			"title": "NuPrice Updates",
-			"text": "Click here for a brief video update on new version.",
-			"yt": "3kUj8eis1ac"
-			
-		},
-				{
-			"date": "8/1/2020",
-			"type": "note",
-			"text": "Thank you all for you're help!",
-			
-		}
-
-	]
-
+   ],
+   "3.2.5-beta":[
+      {
+         "date":"8/1/2020",
+         "type":"patch"
+      },
+      {
+         "date":"8/1/2020",
+         "type":"video",
+         "title":"NuPrice Updates",
+         "text":"Click here for a brief video update on new version.",
+         "yt":"3kUj8eis1ac"
+      },
+      {
+         "date":"8/1/2020",
+         "type":"note",
+         "text":"Thank you all for you're help!"
+      }
+   ]
 }
