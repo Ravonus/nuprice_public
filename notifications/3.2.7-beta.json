@@ -1,10 +1,10 @@
 [{
-		"date": "8/2/2020",
-		"type": "patch"
-},		{
-			"date": "8/3/2020",
-			"type": "note",
-			"oneTime": true,
-			"duration": 5000,
-			"text": "Testing this one....!"
-		}]
+	"date": "8/2/2020",
+	"type": "patch"
+}, {
+	"date": "8/3/2020",
+	"type": "note",
+	"oneTime": true,
+	"duration": 5000,
+	"text": "Testing this one....!"
+}]
