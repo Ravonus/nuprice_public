@@ -1,6 +1,6 @@
 {
 	"new": ["Patch notes can now view all notes within system.",
-		"Added Context Menu"
+		"Added context menu."
 	],
 	"fixes": [
 		"Fixed calendar formatting issues.",
