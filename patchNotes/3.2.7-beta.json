@@ -1,8 +1,9 @@
 {
   "new":["Patch notes can now view all notes within system." ],
   "fixes":[
+            "Fix tooltip offset issue with some computers.",
             "Issue with scoutIQ variable causing issues when you had no scoutIQ login.",
-            "Fixed Repair App button",
-            "Removed Patch notes button"
+            "Fixed Repair App button.",
+            "Removed Patch notes button."
           ]
 }
