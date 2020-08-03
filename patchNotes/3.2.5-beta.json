@@ -1,6 +1,22 @@
 {
-
-  "new":["Some might notice a new option. Privacy Mode lets you blur out certain account related options so recording information is much easier on you.", "Another options, Calculate shipping lets MF reprice automaticaly adjust to shipping."],
-  "fixes":["Issue some users may of had with loading screen not going away.", "Issue some may of had with prices not always reflecting on Amazon."]
-
+   "new": [
+      "Some might notice a new option. Privacy Mode lets you blur out certain account related options so recording information is much easier on you.",
+      "Another options, Calculate shipping lets MF reprice automatically adjust to shipping.",
+      "Hotkeys have also been added. Alt+key how use them.",
+      "ALT+Q brings up reprice margin input.",
+      "ALT+Space selects and highlights the search input.",
+      "ALT+P Will select page input.",
+      "ALT+R Will attempt to continue prices if stopped.",
+      "ALT+S Will sort your current column up or down.",
+      "ALT+F Will bring up filters",
+      "ALT+UP Will cycle up through inventory price inputs.",
+      "ALT+DOWN Will cycle down through inventory price inputs.",
+      "ALT+LEFT Will go back a page.",
+      "ALT+RIGHT Will go forward a page,",
+      "ESC Will bring up settings. "
+   ],
+   "fixes": [
+      "Issue some users may have had with loading screen not going away.",
+      "Issue some may have had with prices not always reflecting on Amazon."
+   ]
 }
