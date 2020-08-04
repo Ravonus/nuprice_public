@@ -1,0 +1,8 @@
+{
+	"new": [],
+	"fixes": [
+    "Fixed issue with certain cached variable causing system not to load.",
+    "Fixed issue with price change check. Where certain computers may hang.",
+    "Fixed column action hide."
+	]
+}
