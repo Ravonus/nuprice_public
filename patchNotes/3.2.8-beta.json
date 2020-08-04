@@ -3,6 +3,7 @@
   "fixes": [
     "Fixed issue with certain cached variable causing system not to load.",
     "Fixed issue with price change check. Where certain computers may hang.",
+    "Fixed issue where version number could show up undefined.",
     "Fixed column action hide.",
     "Fixed issue with User Agent for price changes",
     "Added logging for price change for help with troubleshooting."
