@@ -1,0 +1,8 @@
+{
+  "new": [],
+  "fixes": [
+      "Format to calendar."
+      "Fixed double search return - When less than 10.",
+      "Fixed draw check when sorting before all results have return."
+  ]
+}
