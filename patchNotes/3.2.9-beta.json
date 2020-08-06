@@ -3,6 +3,7 @@
   "fixes": [
       "Format to calendar."
       "Fixed double search return - When less than 10.",
+      "Fixed issue where search results that returned 0 - would cause error. Causing perfomance issues",
       "Fixed issue with price change. Where some computers may of hung",
       "Fixed draw check when sorting before all results have return."
   ]
