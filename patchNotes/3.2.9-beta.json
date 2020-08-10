@@ -1,7 +1,9 @@
 {
   "new": [],
   "fixes": [
-      "Format to calendar."
+      "Fixed issue with ChartIQ logo not showing",
+      "Fixed issue with blank price change",
+      "Fixed formatting on calendar.",
       "Fixed double search return - When less than 10.",
       "Fixed issue where search results that returned 0 - would cause error. Causing perfomance issues",
       "Fixed issue with price change. Where some computers may of hung",
