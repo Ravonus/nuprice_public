@@ -1,1 +1,14 @@
-{}
+{
+  "new": [
+      "New price Queue system. NuPrice will now check your new price against Amazon. Until Amazon reflects price change. NuPrice will also retry price change afer X minutes until it sees new price.",
+      "You may turn off the queue notifcation box via the settings page."
+  ],
+  "fixes": [
+      "Fixed with filters being deleted messing up auto fill logic.",
+      "Fixed issue with amazon merchant type not found on certain pages.",
+      "Fixed issue where obscure title could mess up array from amazon.",
+      "Made better fitting table and scroll bar.",
+      "Fixed issue where draw system would not correctly send next number. Causing page to hang on loading page.",
+      "Fix issue with searching system.  Would not always grab filters and cause issues."
+  ]
+}
