@@ -1,0 +1,11 @@
+{
+  "new": [
+      "New pull method. This will increase performance and decrease file size of main application.",
+      "Created event queue system. NuPrice will now use same event queue as main thread. It will cluster when needed. Resulting in better Malware scanning."
+  ],
+  "fixes": [
+      "Fixed issue with price set user agent. Everything is now the same as Amazon. This should help in any errors Amazon may of been having with price set",
+      "Fixed memory leak issue. There was a memory leak issue with price inventory not clearing correctly. Resulting in more memory being used as application stayed opened.",
+      "Fixed price queue - Which fixed issue with going to new page where old page would show for a second before swapping."
+  ]
+}
