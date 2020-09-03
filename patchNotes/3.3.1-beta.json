@@ -1,6 +1,6 @@
 {
   "new": [
-      "New pull method. This will increase performance and decrease file size of main application.,
+      "New pull method. This will increase performance and decrease file size of main application.",
       "Created event queue system. NuPrice will now use same event queue as main thread. It will cluster when needed. Resulting in better Malware scanning.",
       "Added batch system for price change. Amazon likes batch changes better. System now checks against certain variables and changes prices in batches."
   ],
