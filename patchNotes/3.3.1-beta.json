@@ -16,6 +16,7 @@
       "Fixed profit issue. Sometimes profits would not show up on every query",
       "Fixed system where merchant would sometimes grab name as well and cause loading issues on app open.",
       "Fixed profit issue. Where new tickets coming in could delete profits already shown.",
+      "Made AutoPrice Loader more stable in case of errors",
       "Fixed issue with price loading at sometimes."
   ]
 }
