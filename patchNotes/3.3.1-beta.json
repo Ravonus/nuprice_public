@@ -3,15 +3,18 @@
       "New pull method. This will increase performance and decrease file size of main application.",
       "Created event queue system. NuPrice will now use same event queue as main thread. It will cluster when needed. Resulting in better Malware scanning.",
       "Added batch system for price change. Amazon likes batch changes better. System now checks against certain variables and changes prices in batches.",
-      "Added color coded system for amazon batch system. Red means our system has yet to change prices and you should keep NuPrice Open. This will change blue when prices have all been sent."
+      "Added color coded system for amazon batch system. Red means our system has yet to change prices and you should keep NuPrice Open. This will change blue when prices have all been sent.",
+      "Added merchant swap. You can now swap your merchant including other country merchants.",
+      "Added start systems to UK and Canada."
   ],
   "fixes": [
       "Fixed issue with price set user agent. Everything is now the same as Amazon. This should help in any errors Amazon may of been having with price set",
       "Fixed memory leak issue. There was a memory leak issue with price inventory not clearing correctly. Resulting in more memory being used as application stayed opened.",
       "Fixed price queue - Which fixed issue with going to new page where old page would show for a second before swapping.",
       "Fixed issue with login window. Window will know stay upfront.",
-      "Fixed profit issue. Sometimes profits would not show up on every query"
-      "Fixed profit issue. Where new tickets coming in could delete profits already shown."
+      "Fixed profit issue. Sometimes profits would not show up on every query",
+      "Fixed system where merchant would sometimes grab name as well and cause loading issues on app open.",
+      "Fixed profit issue. Where new tickets coming in could delete profits already shown.",
       "Fixed issue with price loading at sometimes."
   ]
 }
