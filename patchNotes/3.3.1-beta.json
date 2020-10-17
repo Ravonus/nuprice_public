@@ -6,6 +6,7 @@
       "Added color coded system for amazon batch system. Red means our system has yet to change prices and you should keep NuPrice Open. This will change blue when prices have all been sent.",
       "Added merchant swap. You can now swap your merchant including other country merchants.",
       "Added Status Change to Age column",
+      "Added F5 or Command Refresh for Windows and Mac to reload system if something is not working",
       "Added start systems to UK and Canada."
   ],
   "fixes": [
