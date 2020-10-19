@@ -17,6 +17,7 @@
       "Fixed system where merchant would sometimes grab name as well and cause loading issues on app open.",
       "Fixed profit issue. Where new tickets coming in could delete profits already shown.",
       "Made AutoPrice Loader more stable in case of errors",
+      "Fixed issue with login prompt showing in background of window sometimes",
       "Fixed issue with price loading at sometimes."
   ]
 }
