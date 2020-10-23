@@ -19,6 +19,7 @@
       "Fixed profit issue. Where new tickets coming in could delete profits already shown.",
       "Made AutoPrice Loader more stable in case of errors",
       "Fixed issue with login prompt showing in background of window sometimes",
+      "Fixed issue with keepa changing their request system.",
       "Fixed issue with price loading at sometimes."
   ]
 }
