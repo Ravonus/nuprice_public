@@ -13,6 +13,13 @@
 			"oneTime": true,
 			"duration": 10000,
 			"text": "Thank you all for your help!"
+		},
+	 	{
+			"date": "10/28/2020",
+			"type": "video",
+			"title": "NuPrice Updates",
+			"text": "Click here for a brief video update on new version.",
+			"yt": "2l5BbFMd7YM"
 		}
 
 	]
