@@ -1,9 +1,10 @@
 {
-  "new": [
-  ],
-  "fixes": [
+   "new":[
+      
+   ],
+   "fixes":[
       "Fixed issue where some accounts Merchant URL could not be found. This could cause loading dots",
       "Fixed issue where Merchant inventory showing blank - Now lets you select merchant.",
       "Fixed issue with Inactive Filter"
-  ]
+   ]
 }
