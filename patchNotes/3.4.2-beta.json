@@ -4,5 +4,6 @@
       "Added resolution remember system. NuPrice will now open same size you left it last"
    ],
    "fixes":[
+      "Fixed mac copy and paste hotkey issue"
    ]
 }
