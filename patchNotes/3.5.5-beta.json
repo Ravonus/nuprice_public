@@ -1,0 +1,10 @@
+{
+   "new":[
+         "Turning Chrome off within the Advanced setings now is more stable."
+   ],
+   "fixes":[
+      "Fixed grey loading issue. Prices would sometimes get hung and then continue after sometime.",
+      "Added better shipping price check. Sometimes shipping could still be left. Added another check to try to catch all shipping prices",
+      "MF Column fix - Fixed an issue where sometimes columns would not attach correct quality to price"
+   ]
+}
