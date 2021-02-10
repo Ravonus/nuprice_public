@@ -1,4 +1,5 @@
 {
+   "new":["Added new price pull. Uses new Amazon offer page to pull prices for products."],
    "fixes":[
       "Fixed Authentication popup for Chrome. If main authentication cookie would not work"
    ]
