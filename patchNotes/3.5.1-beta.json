@@ -1,0 +1,5 @@
+{
+   "fixes":[
+      "Fixed Authentication popup for Chrome. If main authentication cookie would not work"
+   ]
+}
