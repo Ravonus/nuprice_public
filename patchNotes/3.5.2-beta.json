@@ -1,0 +1,9 @@
+{
+   "new":[
+      "Added Chrome Inventory toggle under Advanced settings. If anyone is having issue with chrome and inventory."
+   ],
+   "fixes":[
+      "Basic authentication check - If anything is wrong merchant window is brought up which either brings up login or merchant.",
+      "Fixed some information new price pull was not grabbing"
+   ]
+}
